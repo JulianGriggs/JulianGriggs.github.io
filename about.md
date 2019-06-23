@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Distilling the essence of who you are into a short "about page" is surprisingly hard -- so consider this a work in progress.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Julian Griggs and I am a professional software engineer living in San Francisco and working at [LightStep](https://lightstep.com/). I love solving business problems with software so this is pretty much the perfect field to be in. I moved to San Francisco in 2015 after graduating from Princeton University with a degree in Computer Science. At Princeton I was a member of the varsity soccer team, an affiliation that was core to my identity during school and remains so to this day. These days I have "hung up the boots" and instead get my athletic fix by running and weight lifting. Beyond writing software and exercising, I also regularly practice meditation and am learning how to play the guitar. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+As I build out this blog, I'm sure I'll touch on all of these topics more.
