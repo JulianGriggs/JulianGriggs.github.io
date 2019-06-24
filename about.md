@@ -24,5 +24,5 @@ I'm fascinated by meditation and try to maintain a daily practice. It significan
 I'm also an aspiring guitarist and have been practicing at it for the past six months. I'm taking it slow but have been thrilled with the progress I've made in that period of time. A HUGE thank you to Justin Sandercoe at [Justin Guitar](https://www.justinguitar.com/) for creating amazing instructional content. Your songbooks are great too.
 
 ## Education
-I graduated from Princeton University in 2015 with a degree in Computer Science. During my senior year, I wrote a thesis on the automatic summarization of text which was advised by [Dr. Ananda Gunawardena](https://www.cs.princeton.edu/~guna/).
+I graduated from Princeton University in 2015 with a degree in Computer Science. During my senior year, I wrote a [thesis](/assets/pdf/thesis.pdf) on the automatic summarization of text which was advised by [Dr. Ananda Gunawardena](https://www.cs.princeton.edu/~guna/).
 I was a member of the varsity soccer team, an affiliation that was core to my identity during school and remains so to this day and was a member of University Cottage Club. The people I met through these affiliations remain some of my closest friends today.
