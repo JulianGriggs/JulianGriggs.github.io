@@ -14,7 +14,7 @@ Since October of 2017 I've been working as a software engineer at [LightStep](ht
 
 Before LightStep, I worked at [Course Hero](https://www.coursehero.com/) in what was my first full-time software engineering job. While at Course Hero, I primarily worked on the Proprietary Content team, with a little over a year spent as that team's Tech Lead. Our team, working in close coordination with the Content Development team, created compelling study guides and infographics that helped students "master their classes".
 
-## My Interests
+## Interests
 For the vast majority of my life, I identified as a soccer player first and foremost. But things change, and after an unfortunate series of concussions, I have officially "hung up the boots" and am enjoying retirement. These days I get my athletic fix from lifting weights and running. I love watching sports -- particularly soccer and basketball where my allegiances are summed up by:
 
 GLORY GLORY MAN UNITED & WAAARRRIIOORRRSSS
@@ -24,5 +24,5 @@ I'm fascinated by meditation and try to maintain a daily practice. It significan
 I'm also an aspiring guitarist and have been practicing at it for the past six months. I'm taking it slow but have been thrilled with the progress I've made in that period of time. A HUGE thank you to Justin Sandercoe at [Justin Guitar](https://www.justinguitar.com/) for creating amazing instructional content. Your songbooks are great too.
 
 ## Education
-I graduated from Princeton University in 2015 with a degree in Computer Science. During my senior year, I wrote a [thesis](/assets/pdf/thesis.pdf) on the automatic summarization of text which was advised by [Dr. Ananda Gunawardena](https://www.cs.princeton.edu/~guna/).
+I graduated from Princeton University in 2015 with a degree in Computer Science. During my senior year, I wrote a [thesis](/uploads/pdf/thesis.pdf) on the automatic summarization of text which was advised by [Dr. Ananda Gunawardena](https://www.cs.princeton.edu/~guna/).
 I was a member of the varsity soccer team, an affiliation that was core to my identity during school and remains so to this day and was a member of University Cottage Club. The people I met through these affiliations remain some of my closest friends today.
