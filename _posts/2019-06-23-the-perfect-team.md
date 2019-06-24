@@ -1,7 +1,6 @@
 ---
 title: The Perfect Team
 layout: post
-comments: true
 excerpt_separator: <!--more-->
 ---
 *Originally published: August 2, 2017 - [LinkedIn](https://www.linkedin.com/pulse/perfect-team-julian-griggs/)*
