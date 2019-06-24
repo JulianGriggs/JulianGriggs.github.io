@@ -3,8 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-## TLDR
+![headshot]({{ site.baseurl }}/uploads/img/headshot.jpg){: style="width: 50%"}
 
+## TLDR
 My name is Julian Griggs and I am a professional software engineer living in San Francisco. I like lifting weights, eating good food, practicing meditation, and learning new things. This blog is a place for me to collect (and hopefully _clarify_) my thoughts on various topics.
 
 Distilling the essence of who you are into a short "about page" is surprisingly hard -- so consider this a work in progress.
