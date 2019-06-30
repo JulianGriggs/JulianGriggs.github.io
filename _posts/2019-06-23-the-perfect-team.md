@@ -1,5 +1,5 @@
 ---
-title: The Perfect Team
+title: The perfect team
 layout: post
 excerpt_separator: <!--more-->
 ---
