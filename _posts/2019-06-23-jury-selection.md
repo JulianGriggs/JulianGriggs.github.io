@@ -1,5 +1,5 @@
 ---
-title: Jury selection
+title: Jury Selection
 layout: post
 ---
 

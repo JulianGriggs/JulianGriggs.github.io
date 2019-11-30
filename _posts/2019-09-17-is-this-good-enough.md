@@ -1,5 +1,5 @@
 ---
-title: Is this good enough?
+title: Is This Good Enough?
 layout: post
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Thinking about error codes
+title: Thinking About Error Codes
 layout: post
 ---
 
