@@ -1,5 +1,5 @@
 ---
-title: The Value of Checkpointing Progress
+title: Checkpointing Eases Context Switching
 layout: post
 categories: [today-i-learned]
 ---
