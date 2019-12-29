@@ -1,0 +1,14 @@
+---
+title: Get It Working, Then Clean It Up
+layout: post
+---
+
+My team was preparing to GA a new email feature on Friday 12/13 (good thing we didn’t believe in bad omens!). The goal was to send users emails about ways they can improve the instrumentation for the services they care about. As of 12/9 we still had one non-trivial feature to build before our GA date. The other members of the team were busy tying up some loose ends so I took on the responsibility for getting this last piece done. I estimated that it would take me two days to get the code written. I got it done, but I caused myself a lot of headache and added unnecessary risk to the project in the process.
+
+The feature that I needed to build involved adding a *second* kind of email that certain users would be eligible to receive. When we wrote the code for the *first* type of email, we tried to do so in a manner that would make adding numbers two, three, and so-on easy. It turns out that we didn’t do a good enough job. 
+
+As I was working on adding the new email type, multiple problem areas appeared. One module assumed that there would only be one type of email and had too many assumptions baked into it. Another one incorrectly assumed that the rules for governing delivery cadence would be the same for all email types. 
+
+I felt like I had a choice to make: I could hack the feature together and leave the code in an unmaintainable state or I could take the time to refactor the code as necessary before implementing the feature. I opted to go with slower, more future looking approach. Looking back, I realize that I presented myself with a false dichotomy. I didn’t have to choose between hacking something ugly and building something clean — I could have done both. Hack first, clean up second. In my situation, this third option would have been the right thing to do to ensure that the project hit its GA deadline.
+
+Choosing to refactor before building the feature increased the time required to get the feature out the door, but that wasn’t the main problem. The problem was that I knew it would involve changing *a lot* of code. If the first law of production software is *things break when you change them*, the second law is *things definitely break when you change them right before GA*. Usually teams implement code freezes before releases because last minute changes have a high likelihood of being buggy. But, our team didn’t decide to do this. In my eagerness, I used the lack of an agreed upon roadblock as justification for my approach. This was *junior developer* thinking — I should have been more responsible. Upon realizing the available options I should have discussed the options with my team to get buy-in. After all, we all shared in the additional risk. Instead, I made the decision by myself. Fortunately, everything worked out but in the future I’ll be more responsible. 
