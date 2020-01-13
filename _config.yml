@@ -17,7 +17,7 @@ title: As I Thinketh
 author: Julian Griggs
 email: julian.griggs10@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm Julian Griggs. These are my thoughts.
+  Julian Griggs | These are my thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://juliangriggs.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
