@@ -11,9 +11,11 @@ My name is Julian Griggs and I am a professional software engineer living in San
 Distilling the essence of who you are into a short "about page" is surprisingly hard -- so consider this a work in progress.
 
 ## Professional
-I currently am a Senior Software Engineer and Tech Lead at [Headspace](https://www.headspace.com/) where I focus primarily on Headspace's enterprise offering. It's amazing to work at a company whose mission is to improve the health and happiness of the world. If this something you're passionate about, come [join me](https://www.headspace.com/join-us)!
+I currently am a Senior Software Engineer at [Netflix](https://www.netflix.com/) where I work on Observability products to help Netflix engineering continue to deliver the best possible product experiences for our members.
 
-Before Headspace I worked as a Software Engineer at [Lightstep](https://lightstep.com/) where our mission was to help engineers observe their applications with confidence, _at scale_. At Lightstep I had the opportunity to work with incredible people on some really interesting problems. I worked all throughout the stack from the front-end React/Redux application to the data-processing back-end services, to the core infrastructure & networking layer. 
+Before Netflix, I was a Senior Software Engineer and Tech Lead at [Headspace Health](https://www.headspacehealth.com/) where I focused primarily on Headspace's enterprise offering. Headspace Health was an amazing company to work at, and their mission to improve the health and happiness of the world is one that I'm still passionate about.
+
+Before Headspace Health I worked as a Software Engineer at [Lightstep](https://lightstep.com/) where our mission was to help engineers observe their applications with confidence, _at scale_. At Lightstep I had the opportunity to work with incredible people on some really interesting problems. I worked all throughout the stack from the front-end React/Redux application to the data-processing back-end services, to the core infrastructure & networking layer. 
 
 Before Lightstep, I worked at [Course Hero](https://www.coursehero.com/) in what was my first full-time software engineering job. While at Course Hero, I primarily worked on the Proprietary Content team, with a little over a year spent as that team's Tech Lead. Our team, working in close coordination with the Content Development team, created compelling study guides and infographics that helped students "master their classes".
 
